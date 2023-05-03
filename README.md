@@ -45,8 +45,6 @@ To use the bot token in your Python code, replace the placeholder text INSERT_DI
 
 ### Usage
 
-### Usage
-
 To use the Discord Trivia Bot, you will need to create a Discord bot and obtain a bot token. You can follow the instructions [here](https://discord.com/developers/docs/topics/oauth2#bots) to create a new bot and obtain a token.
 
 Once you have obtained a bot token, you can run the following command to start the bot:
