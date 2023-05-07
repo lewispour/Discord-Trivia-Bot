@@ -23,9 +23,7 @@ The Discord Trivia Bot has the following features:
 - A valid Discord bot token
 
 ```
-pip3 install discord.py
-pip3 install requests
-pip3 install json
+pip3 install discord.py requests json
 ```
 
 ### Getting the bot token
