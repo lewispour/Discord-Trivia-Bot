@@ -52,3 +52,5 @@ python3 triv.py
 After starting the bot, users can interact with it by sending the $trivia command in a Discord channel where the bot is present. The bot will then retrieve a trivia question and present it as an embedded message. Users can select their answer by reacting to the message with an emoji.
 
 In addition to the $trivia command, users can also provide their answers directly by EMOTING with :one: :two: :three: or :four: (1-4 emoji) corresponding to their chosen answer. The bot will then evaluate their answer and provide feedback on whether it was correct or incorrect.
+
+Tested Working - 05/04/2024
